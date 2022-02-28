@@ -1,0 +1,2 @@
+docker build -t  django-markdown-editor_ .
+docker run -p 8020:8020  django-markdown-editor_
